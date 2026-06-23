@@ -27,6 +27,7 @@ This repository contains study materials for the **Claude Certified Architect â€
 - **Korean guide**: [`guide_ko.md`](./guide_ko.md)
 - **Italian guide**: [`guide_it.md`](./guide_it.md)
 - **Traditional Chinese (Taiwan) guide**: [`guide_zh-tw.md`](./guide_zh-tw.md)
+- **Vietnamese guide**: [`guide_vi.md`](./guide_vi.md)
 
 ## PDF Version
 
@@ -41,6 +42,7 @@ This repository contains study materials for the **Claude Certified Architect â€
 - **Korean guide**: [`guide_ko.pdf`](./pdf/guide_ko.pdf)
 - **Italian guide**: [`guide_it.pdf`](./pdf/guide_it.pdf)
 - **Traditional Chinese (Taiwan) guide**: [`guide_zh-tw.pdf`](./pdf/guide_zh-tw.pdf)
+- **Vietnamese guide**: [`guide_vi.pdf`](./pdf/guide_vi.pdf)
 
 ## How to Use
 
